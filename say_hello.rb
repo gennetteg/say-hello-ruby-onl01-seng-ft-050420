@@ -8,6 +8,6 @@ end
   
   
   say_hello("Gennette")
-  say_hello
+  say_hello(name = Ruby programmer)
   
   
